@@ -74,3 +74,10 @@ layout: default
 
 　　说到底，在埃塞俄比亚搞定一张流量卡，更像是一次微型的文化融入。它需要你的一点耐心和准备，但回报是一条稳定、实惠的数字生命线。它能让你在探索“非洲屋脊”的惊奇时，随时与世界共享你的视角。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Ethiopia SIM 卡购买与激活指南](https://faciylike.github.io/ethiopia-sim-guides)
